@@ -64,22 +64,20 @@ Step 8:
 created a docker yml file and added some cod into it
 sudo nano docker_compose.yml
 
-
+-
 services:
-  
+
   uptime-kuma:
    
-    image: louislam/uptime-kuma:latest
+   image: louislam/uptime-kuma:latest
     
-    container_name: uptime-kuma
+   container_name: uptime-kuma
     
-    volumes:
-    
-      - ./data:/app/data
+   volumes:
+        - ./data:/app/data
     
     ports:
-    
-      - "3001:3001"
+          - "3001:3001"
     
     restart: always
 
