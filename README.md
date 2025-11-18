@@ -67,16 +67,22 @@ sudo nano docker_compose.yml
 -
 services:
 
+
   uptime-kuma:
+  
    
    image: louislam/uptime-kuma:latest
+   
     
    container_name: uptime-kuma
+   
     
    volumes:
+   
         - ./data:/app/data
     
     ports:
+    
           - "3001:3001"
     
     restart: always
