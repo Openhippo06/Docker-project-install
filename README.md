@@ -104,3 +104,6 @@ Step 11:
 
 Access web inter face in an open browser
 http://<VM_IP>:3001
+
+
+<img width="2466" height="1445" alt="Screenshot 2025-12-10 233147" src="https://github.com/user-attachments/assets/1cbd2383-7868-49b0-9d2e-8f86bba4dd7b" />
