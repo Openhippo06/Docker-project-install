@@ -107,3 +107,4 @@ http://<VM_IP>:3001
 
 
 <img width="2466" height="1445" alt="Screenshot 2025-12-10 233147" src="https://github.com/user-attachments/assets/1cbd2383-7868-49b0-9d2e-8f86bba4dd7b" />
+<img width="511" height="362" alt="Screenshot 2025-12-10 233356" src="https://github.com/user-attachments/assets/c9a6bdac-3d5d-4292-a961-26cfb660ad66" />
